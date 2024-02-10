@@ -4,7 +4,6 @@
   "requires": true,
   "packages": {
     "": {
-      "name": "darklightwithredux",
       "dependencies": {
         "@heroicons/react": "^2.0.18",
         "@reduxjs/toolkit": "^2.1.0",
